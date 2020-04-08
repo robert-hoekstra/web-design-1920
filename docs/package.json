@@ -1,0 +1,19 @@
+{
+  "name": "larissas-schedule-viewer",
+  "version": "1.0.0",
+  "description": "A tool to read and navigate through the contents of schedules made in Word and Excel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Visually",
+    "Impaired",
+    "Audio",
+    "Screenreader",
+    "Braille",
+    "Keyboard"
+  ],
+  "author": "Robert F. Hoekstra",
+  "license": "MIT"
+}
