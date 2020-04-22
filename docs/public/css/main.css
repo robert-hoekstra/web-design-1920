@@ -83,21 +83,25 @@ a{
     display: grid;
 grid-template-columns: repeat(2, 1fr);
 grid-template-rows: repeat(1, 1fr);
-grid-column-gap: 20px;
-grid-row-gap: 20px;
+grid-column-gap: 40px;
+grid-row-gap: 40px;
 max-width: 100%;
 margin: auto;
 
 }
 
 #selectie-menu ul li{
-    border: white 14px solid;
+    border: white 10px solid;
+    border-radius: 25px;
     font-size: 2em;
     background: rgb(26, 26, 134);
     line-height: 1.4;
     text-transform: uppercase;
     font-weight: 900;
+}
 
+#selectie-menu ul li a{
+color: whitesmoke;
 }
 
 
@@ -122,4 +126,14 @@ h4{
     color: limegreen;
     display: block;
     text-transform: capitalize;
+}
+
+
+a{
+    color: limegreen;
+}
+
+
+a:visited{
+    color: limegreen;
 }
