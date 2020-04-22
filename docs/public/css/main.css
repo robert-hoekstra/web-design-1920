@@ -2,6 +2,10 @@ html {
     scroll-behavior: smooth;
   }
 
+  body{
+      font-size: 1.4em;
+  }
+
 ul{
     list-style: none;
 }
@@ -34,7 +38,6 @@ h1{
 
 h2{
     font-size: 2.6em;
-    text-transform: capitalize;
 
 }
 
@@ -63,6 +66,13 @@ ul li{
     font-style: normal;
 }
 
+ul{
+    padding: 0;
+    padding-block-start: 0;
+
+-webkit-padding-start: 0;
+}
+
 a{
     text-decoration: none;
     
@@ -73,19 +83,20 @@ a{
     display: grid;
 grid-template-columns: repeat(2, 1fr);
 grid-template-rows: repeat(1, 1fr);
-grid-column-gap: 0px;
-grid-row-gap: 0px;
+grid-column-gap: 20px;
+grid-row-gap: 20px;
+max-width: 100%;
+margin: auto;
 
 }
 
 #selectie-menu ul li{
-    padding: 2em;
-    border: white 2px solid;
-    margin: 1em;
+    border: white 14px solid;
     font-size: 2em;
     background: rgb(26, 26, 134);
     line-height: 1.4;
     text-transform: uppercase;
+    font-weight: 900;
 
 }
 
@@ -103,4 +114,12 @@ h4{
 #januari h4, #februari h4, #maart h4, #april h4, #mei h4, #juni h4, #juli h4, #augustus h4, #september h4, #oktober h4, #november h4, #december h4{
     font-size: 4em;
     text-align: center;
+    border: limegreen 14px solid;
+    padding: 0.5em;
+}
+
+.number{
+    color: limegreen;
+    display: block;
+    text-transform: capitalize;
 }
