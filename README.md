@@ -53,10 +53,10 @@ Do you want to run the application on your local machine?
 For the documentation about this application, testing and researching. I kindly ask you to navigate to my [Wiki](https://github.com/robert-hoekstra/web-design-1920/wiki)
 
 ## Credits
-Tomas Stolp
-Larissa Klaassen
-Vasillis van Gemert
-Koop Reynders
+* [Tomas Stolp](https://github.com/TomasS666)
+* Larissa Klaassen
+* [Vasillis van Gemert](https://github.com/vasilisvg)
+* [Koop Reynders](https://github.com/KoopReynders)
 
 ## Sources
 * [MDN A11Y](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
