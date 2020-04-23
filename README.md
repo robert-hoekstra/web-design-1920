@@ -47,7 +47,7 @@ Do you want to run the application on your local machine?
 
 * 2. Navigate to folder
 
-* 3. Open index.html in your browser or start a localhost and open index.html
+* 3. Open `FILE: index.html` in your browser or start a localhost and open `FILE: index.html`
 
 ## Documentation
 For the documentation about this application, testing and researching. I kindly ask you to navigate to my [Wiki](https://github.com/robert-hoekstra/web-design-1920/wiki)
@@ -59,9 +59,9 @@ Vasillis van Gemert
 Koop Reynders
 
 ## Sources
-[MDN A11Y](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
-[JAWS](https://www.freedomscientific.com/products/software/jaws/)
-[ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
-[StyleFocus](https://developer.mozilla.org/en-US/docs/Web/CSS/:focus)
-[ElementFocus](https://developer.mozilla.org/en-US/docs/Web/API/Element/focus_event)
+* [MDN A11Y](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
+* [JAWS](https://www.freedomscientific.com/products/software/jaws/)
+* [ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+* [StyleFocus](https://developer.mozilla.org/en-US/docs/Web/CSS/:focus)
+* [ElementFocus](https://developer.mozilla.org/en-US/docs/Web/API/Element/focus_event)
 
