@@ -55,7 +55,7 @@ For the documentation about this application, testing and researching. I kindly 
 ## Credits
 * [Tomas Stolp](https://github.com/TomasS666)
 * Larissa Klaassen
-* [Vasillis van Gemert](https://github.com/vasilisvg)
+* [Vasilis van Gemert](https://github.com/vasilisvg)
 * [Koop Reynders](https://github.com/KoopReynders)
 
 ## Sources
