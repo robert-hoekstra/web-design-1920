@@ -94,7 +94,27 @@ margin: auto;
     border: white 10px solid;
     border-radius: 25px;
     font-size: 2em;
-    background: rgb(26, 26, 134);
+    background: limegreen;
+    line-height: 1.4;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+#selectie-menu ul li:hover {
+    border: white 10px solid;
+    border-radius: 25px;
+    font-size: 2em;
+    background: navy;
+    line-height: 1.4;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+#selectie-menu ul li a:focus{
+    border: white 10px solid;
+    border-radius: 25px;
+    font-size: 2em;
+    background: navy;
     line-height: 1.4;
     text-transform: uppercase;
     font-weight: 900;
