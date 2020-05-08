@@ -1,10 +1,17 @@
 html {
     scroll-behavior: smooth;
+    cursor: url(../../public/images/dog.png), auto;
+
+
   }
 
   body{
       font-size: 1.4em;
+
   }
+
+
+
 
 ul{
     list-style: none;
@@ -34,6 +41,7 @@ p, ul{
 h1{
     font-size: 3em;
     text-transform: capitalize;
+
 }
 
 h2{
@@ -130,6 +138,12 @@ color: whitesmoke;
     margin-top: 35%;
 }
 
+.fullscreen:focus{
+    border: solid limegreen 10px;
+    padding: 1em;
+}
+
+
 
 h4{
     text-transform: capitalize;
@@ -151,6 +165,12 @@ h4{
 
 a{
     color: limegreen;
+}
+
+a:focus{
+    font-size: xx-large;
+    padding: 1em;
+    border: solid 10px limegreen;
 }
 
 
